@@ -1,0 +1,12 @@
+/* Write your code here. */
+.li-bg {
+  list-style-type: none;
+  opacity: 0.5;
+}
+.image-alt {
+  width: 7vw;
+  height: 8vh;
+}
+.activebtn {
+  opacity: 1;
+}
